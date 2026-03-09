@@ -1,0 +1,14 @@
+{
+    "bill-1": {
+        "kwota": 230,
+        "data_platnosci": "2025-12-01",
+        "typ_rachunku": "paragon",
+        "apartment": "Polanka 5b"
+    },
+    "bill-2": {
+        "kwota": 175.65,
+        "data_platnosci": "2025-11-03",
+        "typ_rachunku": "paragon",
+        "apartment": "Polanka 3a"
+    }
+}
