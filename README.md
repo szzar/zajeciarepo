@@ -12,4 +12,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### super projekt status: TRU
+### super projekt status: TRUu
